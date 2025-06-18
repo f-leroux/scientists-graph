@@ -1,0 +1,500 @@
+Leonardo da Vinci
+Isaac Newton
+Galileo Galilei
+Albert Einstein
+Archimedes
+Nicolaus Copernicus
+Charles Darwin
+Thomas Edison
+Johannes Gutenberg
+Nikola Tesla
+Carl Linnaeus
+Marie Curie
+Blaise Pascal
+Louis Pasteur
+Hippocrates
+Alfred Nobel
+James Watt
+Stephen Hawking
+Carl Friedrich Gauss
+Giordano Bruno
+Gottfried Wilhelm Leibniz
+Ptolemy
+Michael Faraday
+Dmitri Mendeleev
+Wilhelm Röntgen
+Leonhard Euler
+Omar Khayyam
+Muhammad ibn Musa al-Khwarizmi
+Euclid
+Alan Turing
+Max Planck
+Alexander Graham Bell
+Gregor Mendel
+Alexander Fleming
+Alessandro Volta
+Eratosthenes
+Ivan Pavlov
+Antoine Lavoisier
+Niels Bohr
+Johannes Kepler
+Florence Nightingale
+Hypatia
+Galen
+Paracelsus
+James Prescott Joule
+André-Marie Ampère
+Bertrand Russell
+Ernest Rutherford
+Tycho Brahe
+James Clerk Maxwell
+Henry Ford
+Ignaz Semmelweis
+Edward Jenner
+John Dalton
+Karl Benz
+Robert Hooke
+Pierre de Fermat
+Josef Mengele
+Werner Heisenberg
+Evangelista Torricelli
+Robert Koch
+Strabo
+Henri Becquerel
+Gustave Eiffel
+Guglielmo Marconi
+Fibonacci
+Anders Celsius
+Bernhard Riemann
+Christiaan Huygens
+Al-Biruni
+Antonie van Leeuwenhoek
+John Forbes Nash Jr.
+Georg Ohm
+Pierre-Simon Laplace
+Erwin Schrödinger
+Alexander von Humboldt
+Jean-Baptiste Lamarck
+Hans Christian Ørsted
+L. L. Zamenhof
+Heinrich Hertz
+Rudolf Diesel
+Enrico Fermi
+Basil of Caesarea
+Srinivasa Ramanujan
+Ibn al-Haytham
+Albert Schweitzer
+Andreas Vesalius
+Louis Braille
+Joseph Fourier
+Robert Boyle
+John von Neumann
+Charles Babbage
+Jean le Rond d'Alembert
+Jabir ibn Hayyan
+Louis Daguerre
+Pierre Curie
+Hero of Alexandria
+Diophantus
+William Harvey
+David Hilbert
+Daniel Bernoulli
+Muhammad ibn Zakariya al-Razi
+George Stephenson
+Edwin Hubble
+Samuel Morse
+Aristarchus of Samos
+François Viète
+Gottlieb Daimler
+Évariste Galois
+Henri Poincaré
+Hendrik Lorentz
+Luigi Galvani
+Ernst Haeckel
+Nikolaus Otto
+Joseph-Louis Lagrange
+Konrad Lorenz
+William Herschel
+Louis de Broglie
+Ulugh Beg
+Hipparchus
+Jöns Jacob Berzelius
+Henry Cavendish
+Gerardus Mercator
+Cai Lun
+Daniel Gabriel Fahrenheit
+Zhuge Liang
+Amedeo Avogadro
+Pope Sylvester II
+Alfred Wegener
+Grace Hopper
+Richard Feynman
+J. J. Thomson
+Karl Landsteiner
+Nicéphore Niépce
+Linus Pauling
+John Napier
+Niels Henrik Abel
+Georg Cantor
+Svante Arrhenius
+Fritz Haber
+Kurt Gödel
+Cyril of Alexandria
+Mikhail Kalashnikov
+Carl Wilhelm Scheele
+Ole Rømer
+Muhammad al-Idrisi
+Augustin-Louis Cauchy
+Cesare Lombroso
+Gerolamo Cardano
+Nestorius
+Gustav Kirchhoff
+Charles-Augustin de Coulomb
+James Watson
+Wernher von Braun
+Piri Reis
+Ernst Mach
+Carl Sagan
+Jacobus Henricus van 't Hoff
+Luc Montagnier
+Wolfgang Pauli
+Andrei Sakharov
+Lise Meitner
+Alfred Russel Wallace
+Gottlob Frege
+Peter Kropotkin
+Nicolas Léonard Sadi Carnot
+Pieter Zeeman
+Luca Pacioli
+Léon Foucault
+Philipp Lenard
+Samuel Colt
+Georges Cuvier
+Ja'far al-Sadiq
+Irène Joliot-Curie
+Ludwig Boltzmann
+Alois Alzheimer
+Paul Dirac
+Hermann von Helmholtz
+Peter Gustav Lejeune Dirichlet
+Friedrich Wöhler
+Ada Lovelace
+Richard Dawkins
+Thomas Newcomen
+Johannes Diderik van der Waals
+Wilhelm Ostwald
+Rosalind Franklin
+Christian Doppler
+Otto Hahn
+Heike Kamerlingh Onnes
+Humphry Davy
+Pedanius Dioscorides
+Julius Lothar Meyer
+William Gilbert
+Li Ching-Yuen
+Francis Crick
+Charles Sanders Peirce
+Werner von Siemens
+Antonio Meucci
+Frederick Winslow Taylor
+Pausanias
+Emmy Noether
+Joseph Louis Gay-Lussac
+Georges Lemaître
+James Chadwick
+Karl Ferdinand Braun
+George Boole
+Thomas Henry Huxley
+Thomas Hunt Morgan
+Albert Hofmann
+Eudoxus of Cnidus
+Otto von Guericke
+Wilhelm Wien
+Jean-Martin Charcot
+Max Born
+Élie Metchnikoff
+Johann Bernoulli
+Emil Fischer
+Denis Papin
+Justus von Liebig
+George Westinghouse
+Giovanni Domenico Cassini
+Bartolomeo Cristofori
+William Thomson, 1st Baron Kelvin
+Apollonius of Perga
+James Naismith
+Archytas
+Michael Servetus
+Valery Legasov
+Robert Andrews Millikan
+John Logie Baird
+Robert Fulton
+Adolphe Sax
+Sergei Korolev
+Rudolf Virchow
+Mikhail Lomonosov
+J. Robert Oppenheimer
+William Ramsay
+Joseph-Ignace Guillotin
+Konstantin Tsiolkovsky
+Sofia Kovalevskaya
+Edmond Halley
+Rudolf Clausius
+Charles Messier
+Trofim Lysenko
+Charles Thomson Rees Wilson
+Gustav Ludwig Hertz
+Charles Francis Richter
+Wilhelm Eduard Weber
+Sir George Stokes, 1st Baronet
+Eduard Buchner
+Francis Galton
+Max von Laue
+Franz Mesmer
+Sébastien Le Prestre de Vauban
+Frédéric Joliot-Curie
+Maria Gaetana Agnesi
+Otto Stern
+Norbert Wiener
+Sophie Germain
+Joseph Marie Jacquard
+Nicolas Appert
+Brahmagupta
+Nikolai Vavilov
+Jimmy Wales
+Niccolò Fontana Tartaglia
+Simon Stevin
+Johannes Stark
+Georgius Agricola
+Polycarp
+Elisabeth Kübler-Ross
+Lev Landau
+Philolaus
+Carl Zeiss
+John William Strutt, 3rd Baron Rayleigh
+Ludolph van Ceulen
+Maria Goeppert Mayer
+Konrad Zuse
+Claude Bernard
+Joseph von Fraunhofer
+William G. Morgan
+Nikolai Lobachevsky
+Tim Berners-Lee
+Marin Mersenne
+Karl Weierstrass
+Camillo Golgi
+Emil Lenz
+Charles Édouard Guillaume
+Al-Battani
+Peter Higgs
+John Herschel
+Gaspard-Gustave de Coriolis
+Ernő Rubik
+Herman Hollerith
+Edwin McMillan
+Igor Sikorsky
+George Gamow
+Abu al-Wafa' Buzjani
+Jean Baptiste Perrin
+Walther Nernst
+Al-Zahrawi
+Victor Francis Hess
+Adolf von Baeyer
+Paul Ehrlich
+Willem Einthoven
+Alexis Carrel
+Ismail al-Jazari
+Albert A. Michelson
+Abraham Ortelius
+Maria Sibylla Merian
+Conrad Gessner
+Neil deGrasse Tyson
+Owen Willans Richardson
+Lawrence Bragg
+Abbas ibn Firnas
+Arnold Sommerfeld
+Abd al-Rahman al-Sufi
+Anatoly Dyatlov
+Charles Louis Alphonse Laveran
+Willebrord Snellius
+William Rowan Hamilton
+Otto Lilienthal
+Rachel Carson
+Zhang Heng
+Edward Teller
+Henri Moissan
+Emil Kraepelin
+Isaac Singer
+Alfred North Whitehead
+Rita Levi-Montalcini
+Abraham de Moivre
+C. V. Raman
+Claude Shannon
+Otto Wallach
+Karl von Frisch
+Samuel Hahnemann
+Tu Youyou
+Dennis Gabor
+Hermann Minkowski
+László Bíró
+James Franck
+Urbain Le Verrier
+August Ferdinand Möbius
+Elon Musk
+Richard Trevithick
+Friedrich Bessel
+Émilie du Châtelet
+Yoshinori Ohsumi
+André Citroën
+Arthur Compton
+Otto Heinrich Warburg
+Aage Bohr
+Avempace
+Dian Fossey
+G. H. Hardy
+Ilya Prigogine
+Carl David Anderson
+Hua Tuo
+Ambroise Paré
+Gaspard Monge
+Peter Debye
+Lazzaro Spallanzani
+Richard Dedekind
+Philippe Pinel
+Robert Woodrow Wilson
+Siméon Denis Poisson
+Charles Goodyear
+Willis Carrier
+Andrey Kolmogorov
+Gabriel Lippmann
+Johann Heinrich Lambert
+Benoit Mandelbrot
+Joseph Lister
+August Kekulé
+George Everest
+Eugen Bleuler
+Jacob Bernoulli
+Ernst Abbe
+Frederick Soddy
+Ernst Ruska
+Umberto Nobile
+Marcello Malpighi
+Henrik Dam
+William Henry Bragg
+Carl Bosch
+Barry Barish
+Johann Jakob Balmer
+Aryabhata
+Katherine Johnson
+Charles Richet
+Frederick Sanger
+António Egas Moniz
+Charles Glover Barkla
+Anders Jonas Ångström
+Regiomontanus
+Bhāskara II
+Georges-Louis Leclerc, Comte de Buffon
+Hippolyte Fizeau
+Christiaan Barnard
+Ctesibius
+Jules Bordet
+Pavel Cherenkov
+François Duvalier
+Stanley Cohen
+Martin Waldseemüller
+Giuseppe Peano
+Wilhelm Maybach
+Santiago Ramón y Cajal
+Joseph Henry
+C. F. Powell
+Eugene Wigner
+Douglas Engelbart
+Karl Ernst von Baer
+Clinton Davisson
+Roger Joseph Boscovich
+Charles Lyell
+Hans Adolf Krebs
+William Crookes
+René Laennec
+Giuseppe Piazzi
+Nicolas Steno
+Jean-Baptiste Biot
+Manne Siegbahn
+Karl Drais
+Pappus of Alexandria
+Arthur Eddington
+Alexei Kosygin
+Wilhelm Schickard
+Robert Bunsen
+Barbara McClintock
+Heinrich Wilhelm Matthias Olbers
+Ernest Lawrence
+Augustin-Jean Fresnel
+François Arago
+Joseph Black
+John Bardeen
+John Boyd Dunlop
+Alexandre Yersin
+Arno Allan Penzias
+Emil von Behring
+James Parkinson
+Felix Klein
+Jiro Horikoshi
+Steve Wozniak
+Emile Berliner
+Allvar Gullstrand
+Nikolaas Tinbergen
+Adrien-Marie Legendre
+Gerhard Armauer Hansen
+Mary Somerville
+Igor Tamm
+Robert Edwards
+Kip Thorne
+Karl Brandt
+Jamshīd al-Kāshī
+Auguste Piccard
+Johann Gottfried Galle
+Felix Bloch
+Nicolas-Joseph Cugnot
+Jack Kilby
+Jan Baptist van Helmont
+Henry Moseley
+Dennis Ritchie
+Simon van der Meer
+Henry Fox Talbot
+Jan Oort
+Karl Schwarzschild
+Paul Sabatier
+Christian Goldbach
+Richard Owen
+Thomas Young
+Walther Bothe
+Gerhard Domagk
+Victor Grignard
+Fritz Todt
+Arthur Harden
+Adam Opel
+Francis William Aston
+Johannes Hevelius
+Peter Simon Pallas
+Alfred Werner
+Louis Blériot
+Richard Willstätter
+August Weismann
+Paul Karrer
+Claude Louis Berthollet
+Hans Lippershey
+Josiah Willard Gibbs
+Frank Whittle
+J. Hans D. Jensen
+George Paget Thomson
+Ada Yonath
+Christiaan Eijkman
+Bonaventura Cavalieri
+Hermann Staudinger
+Francesco Redi
+Guillaume de l'Hôpital
+Richard Stallman
+Harald zur Hausen
+Pierre Louis Maupertuis
+Robert Bellarmine
