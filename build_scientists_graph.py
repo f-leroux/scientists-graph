@@ -10,7 +10,7 @@ FALLBACK_IMAGE = PORTRAIT_DIR / "Unknown_person.jpg"
 NAMES_TXT      = Path("names.txt")
 BIRTH_TXT      = Path("birth_years.txt")
 ADJ_CSV        = Path("person_reference_matrix.csv")
-HTML_OUT       = "scientists_graph.html"
+HTML_OUT       = "index.html"
 
 # ---------- load data -------------------------------------------------------
 names  = [ln.strip() for ln in NAMES_TXT.open(encoding="utf-8") if ln.strip()]
@@ -38,7 +38,6 @@ def safe_filename(text: str) -> str:
 G = nx.DiGraph()
 for idx, (name, imp, lvl) in enumerate(zip(names, in_deg, levels)):
     slug = safe_filename(name)
-    if 'Erwin' in slug: print(slug)
     possible_exts = [".jpg", ".jpeg", ".JPG", ".png", ".PNG"]
     for ext in possible_exts:
         portrait = PORTRAIT_DIR / f"{slug}{ext}"
