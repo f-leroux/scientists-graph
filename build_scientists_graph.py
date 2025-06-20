@@ -51,7 +51,7 @@ for idx, (name, imp, lvl) in enumerate(zip(names, in_deg, levels)):
         label=name,
         title=f"{name}, Inbound links: {int(imp)}",
         shape="circularImage",
-        image=str(portrait.resolve()),
+        image=str(portrait),
         value=scale(imp),
         level=lvl                     # ← key for hierarchical layout
     )
