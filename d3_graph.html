@@ -27,6 +27,7 @@ const MATRIX_CSV  = 'person_reference_matrix.csv'; // adjacency matrix
 const SLUGS_TXT   = 'slugs.txt';                   // one slug per line
 const NAMES_TXT   = 'names.txt';                   // one printable name per line
 const BIRTHS_TXT  = 'birth_years.txt';             // one birth‑year per line (int)
+const BIOS_TXT    = 'bios.txt';                    // one bio per line (name: bio)
 const PORTRAIT_DIR= 'portraits/';                  // portrait folder
 const PORTRAIT_EXTS = ['jpg','jpeg','png'];        // extension fallback order
 const SIZE_RANGE   = [40, 90];                     // min‑max portrait size px
@@ -66,21 +67,27 @@ Promise.all([
   d3.text(SLUGS_TXT),
   d3.text(NAMES_TXT),
   d3.text(BIRTHS_TXT),
+  d3.text(BIOS_TXT),
   d3.csv(MATRIX_CSV, d3.autoType)
-]).then(([slugText, nameText, birthText, matrixRows]) => {
+]).then(([slugText, nameText, birthText, bioText, matrixRows]) => {
   const slugs  = slugText.trim().split(/\r?\n/);
   const names  = nameText.trim().split(/\r?\n/);
   const births = birthText.trim().split(/\r?\n/).map(Number);
+  const bios   = bioText.trim().split(/\r?\n/).map(line => {
+    const colonIndex = line.indexOf(':');
+    return colonIndex > 0 ? line.substring(colonIndex + 1).trim() : '';
+  });
 
-  if(!(slugs.length===names.length && slugs.length===births.length)) {
-    console.error('⚠ Slug/Name/Birth lists have different lengths.');
+  if(!(slugs.length===names.length && slugs.length===births.length && slugs.length===bios.length)) {
+    console.error('⚠ Slug/Name/Birth/Bio lists have different lengths.');
   }
 
   /********* Build Node Skeleton *********/
   const rawNodes = slugs.map((slug,i)=>({
     id: slug,
     name: names[i] || slug,
-    birth: births[i] || null
+    birth: births[i] || null,
+    bio: bios[i] || ''
   }));
 
   // y‑scale (ignore nulls)
@@ -196,6 +203,7 @@ Promise.all([
                  
                  `<p><strong>Born:</strong> ${d.birth}</p>`+
                  `<p><strong>Connections:</strong> ${linksIn}</p>`+
+                 `<p>${d.bio}</p>`+
                  `<p><a href="https://en.wikipedia.org/wiki/${d.id}" target="_blank">Wikipedia ↗</a></p>`);
   }
 });

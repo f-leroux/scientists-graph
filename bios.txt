@@ -1,0 +1,500 @@
+Leonardo da Vinci: Painted the Mona Lisa, designed inventions, advanced anatomy and engineering.
+Isaac Newton: Formulated the laws of motion, universal gravitation, invented calculus, studied optics, built the reflecting telescope.
+Galileo Galilei: Pioneered modern astronomy, improved the telescope, supported heliocentrism, studied motion.
+Albert Einstein: Developed the theory of relativity, explained the photoelectric effect, advanced quantum theory.
+Archimedes: Formulated principles of buoyancy, invented Archimedes’ screw, advanced mathematics and physics.
+Nicolaus Copernicus: Proposed the heliocentric model of the solar system.
+Charles Darwin: Developed the theory of evolution by natural selection.
+Thomas Edison: Invented the phonograph, practical electric light bulb, and motion picture camera.
+Johannes Gutenberg: Invented the movable-type printing press.
+Nikola Tesla: Developed AC electricity, invented the Tesla coil, contributed to radio and wireless technology.
+Carl Linnaeus: Created the modern system of biological classification (taxonomy).
+Marie Curie: Discovered radioactivity, discovered polonium and radium, won two Nobel Prizes.
+Blaise Pascal: Formulated Pascal’s law, invented the mechanical calculator, contributed to probability theory.
+Louis Pasteur: Developed pasteurization, created vaccines for rabies and anthrax, advanced germ theory.
+Hippocrates: Regarded as the father of medicine, established the Hippocratic Oath.
+Alfred Nobel: Invented dynamite, founded the Nobel Prizes.
+James Watt: Improved the steam engine, boosted the Industrial Revolution.
+Stephen Hawking: Developed theories on black holes and cosmology, wrote A Brief History of Time.
+Carl Friedrich Gauss: Made foundational contributions to number theory, statistics, electromagnetism, astronomy.
+Giordano Bruno: Supported an infinite universe and multiple worlds, advocated heliocentrism.
+Gottfried Wilhelm Leibniz: Co-invented calculus, developed binary system, contributed to philosophy and logic.
+Ptolemy: Formulated the geocentric model of the universe, wrote Almagest.
+Michael Faraday: Discovered electromagnetic induction, invented the electric motor and dynamo.
+Dmitri Mendeleev: Created the periodic table of elements.
+Wilhelm Röntgen: Discovered X-rays.
+Leonhard Euler: Made major advances in mathematics, introduced many modern notations.
+Omar Khayyam: Wrote influential poetry, reformed the Persian calendar, contributed to algebra.
+Muhammad ibn Musa al-Khwarizmi: Father of algebra, introduced Hindu-Arabic numerals to the West.
+Euclid: Wrote Elements, the foundational work of geometry.
+Alan Turing: Pioneered computer science, broke the Enigma code, theorized artificial intelligence.
+Max Planck: Originated quantum theory.
+Alexander Graham Bell: Invented the telephone.
+Gregor Mendel: Founded modern genetics through experiments on pea plants.
+Alexander Fleming: Discovered penicillin.
+Alessandro Volta: Invented the electric battery.
+Eratosthenes: Calculated the Earth’s circumference, devised the sieve of Eratosthenes.
+Ivan Pavlov: Discovered classical conditioning.
+Antoine Lavoisier: Father of modern chemistry, named oxygen and hydrogen, formulated conservation of mass.
+Niels Bohr: Developed the Bohr model of the atom, contributed to quantum mechanics.
+Johannes Kepler: Formulated the laws of planetary motion.
+Florence Nightingale: Founded modern nursing, improved hospital sanitation.
+Hypatia: Mathematician and philosopher, taught astronomy and mathematics in Alexandria.
+Galen: Influential physician, advanced anatomy and medical theory in ancient Rome.
+Paracelsus: Pioneer of toxicology and chemical medicine.
+James Prescott Joule: Established the mechanical equivalent of heat, contributed to thermodynamics.
+André-Marie Ampère: Founded electrodynamics, namesake of the ampere unit.
+Bertrand Russell: Advanced logic, analytic philosophy, and social criticism.
+Ernest Rutherford: Discovered the nucleus, pioneered nuclear physics.
+Tycho Brahe: Made precise astronomical observations, laid groundwork for Kepler’s laws.
+James Clerk Maxwell: Formulated the theory of electromagnetism, unified electricity, magnetism, and light.
+Henry Ford: Pioneered assembly line production, founded the Ford Motor Company.
+Ignaz Semmelweis: Introduced handwashing in medical practice, reduced puerperal fever.
+Edward Jenner: Developed the first successful smallpox vaccine.
+John Dalton: Formulated atomic theory, researched color blindness.
+Karl Benz: Invented the first practical automobile powered by an internal combustion engine.
+Robert Hooke: Discovered cells, contributed to microscopy and elasticity (Hooke’s law).
+Pierre de Fermat: Founded number theory, formulated Fermat’s Last Theorem.
+Josef Mengele: Infamous Nazi doctor known for unethical human experiments at Auschwitz.
+Werner Heisenberg: Formulated the uncertainty principle, contributed to quantum mechanics.
+Evangelista Torricelli: Invented the barometer, studied fluid dynamics.
+Robert Koch: Discovered tuberculosis and cholera bacteria, founded modern bacteriology.
+Strabo: Wrote Geographica, described the known world of his time.
+Henri Becquerel: Discovered natural radioactivity.
+Gustave Eiffel: Designed and built the Eiffel Tower.
+Guglielmo Marconi: Pioneered long-distance radio transmission, invented the wireless telegraph.
+Fibonacci: Popularized the Hindu-Arabic numeral system in Europe, introduced the Fibonacci sequence.
+Anders Celsius: Created the Celsius temperature scale.
+Bernhard Riemann: Developed Riemannian geometry, contributed to complex analysis and number theory.
+Christiaan Huygens: Discovered Saturn’s rings and Titan, invented the pendulum clock, advanced wave theory of light.
+Al-Biruni: Polymath who measured Earth’s radius, advanced astronomy, geography, and history.
+Antonie van Leeuwenhoek: Father of microbiology, improved the microscope, observed microorganisms.
+John Forbes Nash Jr.: Developed game theory and Nash equilibrium.
+Georg Ohm: Formulated Ohm’s law describing electrical resistance.
+Pierre-Simon Laplace: Developed celestial mechanics, formulated the Laplace transform.
+Erwin Schrödinger: Formulated wave mechanics, Schrödinger’s cat thought experiment.
+Alexander von Humboldt: Explored and mapped South America, founded biogeography.
+Jean-Baptiste Lamarck: Early theory of evolution through inheritance of acquired traits.
+Hans Christian Ørsted: Discovered electromagnetism linking electricity and magnetism.
+L. L. Zamenhof: Created the constructed language Esperanto.
+Heinrich Hertz: Proved the existence of electromagnetic waves.
+Rudolf Diesel: Invented the diesel engine.
+Enrico Fermi: Developed the first nuclear reactor, advanced nuclear physics.
+Basil of Caesarea: Influential theologian and early Christian bishop, advanced charitable institutions.
+Srinivasa Ramanujan: Prodigious mathematician, made pioneering contributions to number theory and infinite series.
+Ibn al-Haytham: Father of modern optics, explained vision, used scientific experimentation.
+Albert Schweitzer: Physician and humanitarian, founded a hospital in Africa, Nobel Peace Prize laureate.
+Andreas Vesalius: Founder of modern human anatomy, wrote De humani corporis fabrica.
+Louis Braille: Invented the Braille system for the blind.
+Joseph Fourier: Developed Fourier series and Fourier transform, studied heat conduction.
+Robert Boyle: Father of modern chemistry, formulated Boyle’s law of gases.
+John von Neumann: Pioneered game theory, digital computing, and mathematical physics.
+Charles Babbage: Designed the first mechanical computer (Analytical Engine).
+Jean le Rond d’Alembert: Co-edited the Encyclopédie, contributed to fluid dynamics and mathematics.
+Jabir ibn Hayyan: Father of chemistry in the Islamic Golden Age, advanced alchemy and experimentation.
+Louis Daguerre: Invented the daguerreotype, an early photographic process.
+Pierre Curie: Discovered radioactivity with Marie Curie, researched magnetism and piezoelectricity.
+Hero of Alexandria: Invented early steam engine (aeolipile), advanced pneumatics and mechanics.
+Diophantus: Father of algebra, wrote Arithmetica.
+William Harvey: Discovered the circulation of blood.
+David Hilbert: Formulated influential mathematical problems, contributed to formalism and foundations of mathematics.
+Daniel Bernoulli: Formulated Bernoulli’s principle in fluid dynamics.
+Muhammad ibn Zakariya al-Razi: Pioneer of medicine and chemistry, wrote medical encyclopedias, discovered alcohol.
+George Stephenson: Built the first successful steam locomotive, known as the “Father of Railways.”
+Edwin Hubble: Proved the expansion of the universe, discovered galaxies beyond the Milky Way.
+Samuel Morse: Invented the telegraph and Morse code.
+Aristarchus of Samos: Proposed an early heliocentric model of the solar system.
+François Viète: Father of modern algebraic notation.
+Gottlieb Daimler: Invented the high-speed petrol engine, co-founded Daimler Motoren Gesellschaft.
+Évariste Galois: Founded group theory, laid groundwork for modern abstract algebra.
+Henri Poincaré: Advanced topology, celestial mechanics, and chaos theory.
+Hendrik Lorentz: Formulated the Lorentz transformations, contributed to electromagnetic theory.
+Luigi Galvani: Discovered bioelectricity (animal electricity).
+Ernst Haeckel: Popularized Darwin’s ideas in Germany, coined terms like “ecology.”
+Nikolaus Otto: Invented the four-stroke internal combustion engine (Otto cycle).
+Joseph-Louis Lagrange: Made fundamental contributions to classical mechanics and calculus of variations.
+Konrad Lorenz: Founder of ethology, studied imprinting in animals.
+William Herschel: Discovered Uranus, catalogued stars and nebulae.
+Louis de Broglie: Proposed wave-particle duality of matter.
+Ulugh Beg: Built an advanced observatory, produced precise star catalogues.
+Hipparchus: Father of trigonometry, discovered precession of the equinoxes.
+Jöns Jacob Berzelius: Developed modern chemical notation, discovered several elements.
+Henry Cavendish: Discovered hydrogen, determined the density of Earth.
+Gerardus Mercator: Created the Mercator projection map for navigation.
+Cai Lun: Invented paper in ancient China.
+Daniel Gabriel Fahrenheit: Invented the mercury thermometer, created the Fahrenheit temperature scale.
+Zhuge Liang: Renowned Chinese strategist, engineer, and inventor during the Three Kingdoms period.
+Amedeo Avogadro: Formulated Avogadro’s law, laid foundation for molecular theory.
+Pope Sylvester II: Promoted the use of Arabic numerals and the abacus in Europe.
+Alfred Wegener: Proposed the theory of continental drift.
+Grace Hopper: Pioneered computer programming, developed the first compiler.
+Richard Feynman: Advanced quantum electrodynamics, popularized physics through teaching and books.
+J. J. Thomson: Discovered the electron.
+Karl Landsteiner: Discovered blood groups, enabling safe blood transfusions.
+Nicéphore Niépce: Took the first permanent photograph.
+Linus Pauling: Pioneered quantum chemistry and molecular biology, peace activist, won two Nobel Prizes.
+John Napier: Invented logarithms, developed Napier’s bones for calculation.
+Niels Henrik Abel: Proved the insolvability of the general quintic equation, contributed to group theory.
+Georg Cantor: Founded set theory, introduced the concept of infinity in mathematics.
+Svante Arrhenius: Proposed the greenhouse effect, advanced physical chemistry.
+Fritz Haber: Developed the Haber process for ammonia synthesis, used in fertilizers and explosives.
+Kurt Gödel: Proved the incompleteness theorems in mathematical logic.
+Cyril of Alexandria: Influential theologian, key figure in early Christian doctrine.
+Mikhail Kalashnikov: Designed the AK-47 assault rifle.
+Carl Wilhelm Scheele: Discovered oxygen (independently), chlorine, and other elements.
+Ole Rømer: First to measure the speed of light.
+Muhammad al-Idrisi: Created detailed medieval maps, wrote Tabula Rogeriana.
+Augustin-Louis Cauchy: Founded rigorous analysis in mathematics, contributed to complex functions.
+Cesare Lombroso: Founder of criminal anthropology.
+Gerolamo Cardano: Published solutions to cubic and quartic equations, early work in probability.
+Nestorius: Early Christian theologian, founder of the Nestorian doctrine.
+Gustav Kirchhoff: Formulated Kirchhoff’s circuit laws and advanced spectroscopy.
+Charles-Augustin de Coulomb: Defined Coulomb’s law of electrostatic force.
+James Watson: Co-discovered the double helix structure of DNA.
+Wernher von Braun: Led the development of the V-2 rocket and the Saturn V for the Apollo program.
+Piri Reis: Ottoman admiral and cartographer, created detailed world maps.
+Ernst Mach: Studied supersonic flow (Mach number), influenced logical positivism and physics.
+Carl Sagan: Popularized astronomy and science, contributed to planetary science and SETI.
+Jacobus Henricus van ’t Hoff: Pioneered chemical kinetics and osmotic pressure, first Nobel Prize in Chemistry.
+Luc Montagnier: Co-discovered the HIV virus.
+Wolfgang Pauli: Formulated the Pauli exclusion principle in quantum physics.
+Andrei Sakharov: Developed the Soviet hydrogen bomb, later became a human rights activist.
+Lise Meitner: Co-discovered nuclear fission.
+Alfred Russel Wallace: Independently conceived evolution by natural selection, studied biogeography.
+Gottlob Frege: Founded modern logic and analytic philosophy.
+Peter Kropotkin: Developed theories of mutual aid in evolutionary biology and anarchist philosophy.
+Nicolas Léonard Sadi Carnot: Father of thermodynamics, studied the efficiency of heat engines.
+Pieter Zeeman: Discovered the Zeeman effect (splitting of spectral lines by magnetic fields).
+Luca Pacioli: Father of accounting, wrote the first book on double-entry bookkeeping.
+Léon Foucault: Demonstrated Earth’s rotation with the Foucault pendulum, measured speed of light.
+Philipp Lenard: Advanced cathode ray research, contributed to atomic physics.
+Samuel Colt: Invented the mass-produced revolver.
+Georges Cuvier: Founded paleontology, established extinction as a scientific fact.
+Ja‘far al-Sadiq: Influential Islamic scholar, contributed to early chemistry and astronomy.
+Irène Joliot-Curie: Discovered artificial radioactivity, Nobel Prize in Chemistry.
+Ludwig Boltzmann: Developed statistical mechanics and entropy theory.
+Alois Alzheimer: Identified Alzheimer’s disease.
+Paul Dirac: Formulated quantum mechanics and quantum electrodynamics, predicted antimatter.
+Hermann von Helmholtz: Advanced conservation of energy, physiological optics, and acoustics.
+Peter Gustav Lejeune Dirichlet: Contributed to number theory and analysis, established Dirichlet’s principle.
+Friedrich Wöhler: Synthesized urea, disproving vitalism in chemistry.
+Ada Lovelace: Wrote the first algorithm for Charles Babbage’s Analytical Engine.
+Richard Dawkins: Popularized the gene-centered view of evolution, coined “meme.”
+Thomas Newcomen: Invented the atmospheric steam engine.
+Johannes Diderik van der Waals: Developed van der Waals forces and equation for real gases.
+Wilhelm Ostwald: Advanced catalysis and chemical equilibrium, Nobel Prize in Chemistry.
+Rosalind Franklin: Produced critical X-ray diffraction images of DNA.
+Christian Doppler: Explained the Doppler effect in wave frequency shifts.
+Otto Hahn: Discovered nuclear fission of uranium.
+Heike Kamerlingh Onnes: First to liquefy helium, discovered superconductivity.
+Humphry Davy: Discovered several elements (sodium, potassium), invented the Davy lamp.
+Pedanius Dioscorides: Wrote De Materia Medica, a foundational text in pharmacology.
+Julius Lothar Meyer: Co-developed the periodic table alongside Mendeleev.
+William Gilbert: Father of magnetism, wrote De Magnete.
+Li Ching-Yuen: Legendary Chinese herbalist reputed for extreme longevity.
+Francis Crick: Co-discovered DNA’s structure with Watson and Franklin.
+Charles Sanders Peirce: Father of pragmatism, contributed to logic and semiotics.
+Werner von Siemens: Innovated electrical engineering, founded Siemens AG.
+Antonio Meucci: Early inventor of the voice communication device (precursor to the telephone).
+Frederick Winslow Taylor: Developed scientific management (Taylorism) for industrial efficiency.
+Pausanias: Ancient Greek geographer, wrote Description of Greece, detailing ancient sites.
+Emmy Noether: Developed Noether’s theorem linking symmetries and conservation laws in physics.
+Joseph Louis Gay-Lussac: Discovered gas laws relating pressure, volume, and temperature.
+Georges Lemaître: Proposed the Big Bang theory and expanding universe model.
+James Chadwick: Discovered the neutron.
+Karl Ferdinand Braun: Invented the cathode ray tube oscilloscope, co-invented wireless telegraphy.
+George Boole: Founded Boolean algebra, basis of digital logic.
+Thomas Henry Huxley: Defended Darwin’s theory of evolution, known as “Darwin’s Bulldog.”
+Thomas Hunt Morgan: Demonstrated the role of chromosomes in heredity, founded modern genetics.
+Albert Hofmann: Synthesized LSD, studied its psychoactive properties.
+Eudoxus of Cnidus: Developed early models of planetary motion, advanced geometry.
+Otto von Guericke: Invented the vacuum pump, demonstrated the power of atmospheric pressure.
+Wilhelm Wien: Formulated Wien’s displacement law for blackbody radiation.
+Jean-Martin Charcot: Founder of modern neurology, researched hysteria and hypnosis.
+Max Born: Developed quantum mechanics’ probabilistic interpretation, Born rule.
+Élie Metchnikoff: Discovered phagocytosis, pioneer of immunology.
+Johann Bernoulli: Advanced calculus, contributed to the study of curves and exponential functions.
+Emil Fischer: Determined structures of sugars and purines, Nobel Prize in Chemistry.
+Denis Papin: Invented the steam digester (early pressure cooker) and piston steam engine ideas.
+Justus von Liebig: Founder of agricultural chemistry and modern organic chemistry.
+George Westinghouse: Pioneered alternating current power systems, invented the railway air brake.
+Giovanni Domenico Cassini: Discovered Saturn’s moons and divisions in its rings.
+Bartolomeo Cristofori: Invented the piano.
+William Thomson, 1st Baron Kelvin: Developed the Kelvin temperature scale, contributed to thermodynamics.
+Apollonius of Perga: Studied conic sections, named parabola, ellipse, and hyperbola.
+James Naismith: Invented the game of basketball.
+Archytas: Ancient Greek mathematician, studied mechanics and early mathematical physics.
+Michael Servetus: Renaissance physician, discovered pulmonary circulation of blood.
+Valery Legasov: Soviet chemist, key figure in investigating the Chernobyl disaster.
+Robert Andrews Millikan: Measured the electron’s charge (oil-drop experiment).
+John Logie Baird: Invented the first working television system.
+Robert Fulton: Developed the first commercially successful steamboat.
+Adolphe Sax: Invented the saxophone.
+Sergei Korolev: Chief architect of the Soviet space program, launched Sputnik and Gagarin.
+Rudolf Virchow: Father of modern pathology, advanced cell theory.
+Mikhail Lomonosov: Russian polymath, founded Moscow State University, contributed to chemistry and physics.
+J. Robert Oppenheimer: Scientific director of the Manhattan Project, known as “father of the atomic bomb.”
+William Ramsay: Discovered noble gases, Nobel Prize in Chemistry.
+Joseph-Ignace Guillotin: Proposed the guillotine as a humane execution device.
+Konstantin Tsiolkovsky: Pioneer of astronautics and rocketry theory.
+Sofia Kovalevskaya: First major female Russian mathematician, contributed to analysis and mechanics.
+Edmond Halley: Predicted the return of Halley’s Comet, advanced observational astronomy.
+Rudolf Clausius: Formulated the second law of thermodynamics and concept of entropy.
+Charles Messier: Catalogued deep-sky objects (Messier objects) for comet hunters.
+Trofim Lysenko: Promoted pseudoscientific agricultural theories in Soviet biology.
+Charles Thomson Rees Wilson: Invented the cloud chamber to detect ionizing radiation.
+Gustav Ludwig Hertz: Confirmed quantum theory through electron collision experiments (Franck-Hertz experiment).
+Charles Francis Richter: Developed the Richter scale for measuring earthquake magnitude.
+Wilhelm Eduard Weber: Advanced electromagnetic theory, developed the unit “weber” for magnetic flux.
+Sir George Stokes, 1st Baronet: Formulated Stokes’ law, contributed to fluid dynamics and optics.
+Eduard Buchner: Discovered cell-free fermentation, founding enzymology.
+Francis Galton: Founded eugenics, advanced statistics and fingerprinting.
+Max von Laue: Discovered X-ray diffraction in crystals.
+Franz Mesmer: Developed theory of animal magnetism (mesmerism, precursor to hypnosis).
+Sébastien Le Prestre de Vauban: Revolutionized military fortifications and siegecraft.
+Frédéric Joliot-Curie: Discovered artificial radioactivity with Irène Joliot-Curie, Nobel Prize in Chemistry.
+Maria Gaetana Agnesi: Wrote a famous calculus textbook, studied the “witch of Agnesi” curve.
+Otto Stern: Developed molecular beam method, confirmed proton’s magnetic moment.
+Norbert Wiener: Founded cybernetics, laid groundwork for information theory.
+Sophie Germain: Contributed to number theory and elasticity theory.
+Joseph Marie Jacquard: Invented the Jacquard loom, early programmable machine.
+Nicolas Appert: Invented airtight food preservation (canning).
+Brahmagupta: Defined rules for zero and negative numbers, advanced Indian mathematics and astronomy.
+Nikolai Vavilov: Pioneered plant genetics and centers of crop origin.
+Jimmy Wales: Co-founded Wikipedia.
+Niccolò Fontana Tartaglia: Solved cubic equations, translated ancient works, contributed to ballistics.
+Simon Stevin: Introduced decimal fractions to Europe, worked on hydrostatics and engineering.
+Johannes Stark: Discovered Stark effect (electric field’s effect on spectral lines).
+Georgius Agricola: Father of mineralogy, wrote De Re Metallica.
+Polycarp: Early Christian bishop and martyr, preserved apostolic teachings.
+Elisabeth Kübler-Ross: Developed the five stages of grief model.
+Lev Landau: Advanced theoretical physics, co-developed Landau theory of phase transitions.
+Philolaus: Ancient Greek philosopher who proposed early heliocentric ideas.
+Carl Zeiss: Revolutionized optical instruments and microscopy.
+John William Strutt, 3rd Baron Rayleigh: Discovered argon, advanced wave theory, Rayleigh scattering.
+Ludolph van Ceulen: Calculated π to 35 decimal places, known as “π’s Ludolphine number.”
+Maria Goeppert Mayer: Developed nuclear shell model, Nobel Prize in Physics.
+Konrad Zuse: Built the first programmable, working digital computer.
+Claude Bernard: Founder of experimental physiology, developed concept of homeostasis.
+Joseph von Fraunhofer: Discovered Fraunhofer lines in the solar spectrum, advanced optics.
+William G. Morgan: Invented volleyball.
+Nikolai Lobachevsky: Founder of non-Euclidean geometry.
+Tim Berners-Lee: Invented the World Wide Web.
+Marin Mersenne: Connected mathematicians across Europe, studied prime numbers (Mersenne primes).
+Karl Weierstrass: Formalized rigorous analysis, father of modern calculus.
+Camillo Golgi: Discovered the Golgi apparatus in cells, Nobel Prize in Medicine.
+Emil Lenz: Formulated Lenz’s law of electromagnetic induction.
+Charles Édouard Guillaume: Measured nickel-steel alloys, invented Invar, Nobel Prize in Physics.
+Al-Battani: Refined measurements of the solar year, improved astronomical tables.
+Peter Higgs: Predicted the Higgs boson particle.
+John Herschel: Catalogued stars and nebulae, invented photographic techniques.
+Gaspard-Gustave de Coriolis: Described the Coriolis effect in rotating systems.
+Ernő Rubik: Invented the Rubik’s Cube.
+Herman Hollerith: Invented the punched card tabulating machine, precursor to modern computing.
+Edwin McMillan: Co-discovered neptunium, pioneered particle accelerators, Nobel Prize in Chemistry.
+Igor Sikorsky: Designed the first successful helicopters.
+George Gamow: Proposed Big Bang nucleosynthesis, advanced quantum tunneling.
+Abu al-Wafa' Buzjani: Contributed to trigonometry, refined sine and tangent functions.
+Jean Baptiste Perrin: Confirmed atomic theory with Brownian motion experiments, Nobel Prize in Physics.
+Walther Nernst: Formulated the third law of thermodynamics, Nobel Prize in Chemistry.
+Al-Zahrawi: Father of modern surgery, wrote influential medical encyclopedia.
+Victor Francis Hess: Discovered cosmic rays, Nobel Prize in Physics.
+Adolf von Baeyer: Synthesized indigo dye, advanced organic chemistry, Nobel Prize in Chemistry.
+Paul Ehrlich: Pioneered immunology and chemotherapy, developed Salvarsan for syphilis.
+Willem Einthoven: Invented the electrocardiogram (ECG), Nobel Prize in Medicine.
+Alexis Carrel: Developed vascular suturing techniques and organ transplantation methods, Nobel Prize in Medicine.
+Ismail al-Jazari: Invented mechanical devices and automata, father of robotics in medieval Islam.
+Albert A. Michelson: Measured the speed of light precisely, Michelson-Morley experiment, Nobel Prize in Physics.
+Abraham Ortelius: Created the first modern atlas (Theatrum Orbis Terrarum).
+Maria Sibylla Merian: Pioneering entomologist and illustrator, advanced insect metamorphosis studies.
+Conrad Gessner: Father of modern zoology, wrote extensive natural history works.
+Neil deGrasse Tyson: Astrophysicist and science communicator popularizing astronomy.
+Owen Willans Richardson: Discovered the thermionic effect, Nobel Prize in Physics.
+Lawrence Bragg: Formulated Bragg’s law of X-ray diffraction, Nobel Prize in Physics with his father.
+Abbas ibn Firnas: Designed early flying machines, innovated glassmaking and astronomy.
+Arnold Sommerfeld: Developed atomic theory, mentored many notable physicists.
+Abd al-Rahman al-Sufi: Catalogued stars and nebulae, wrote Book of Fixed Stars.
+Anatoly Dyatlov: Deputy chief engineer at Chernobyl Nuclear Power Plant during the 1986 disaster.
+Charles Louis Alphonse Laveran: Discovered the parasite causing malaria, Nobel Prize in Medicine.
+Willebrord Snellius: Formulated Snell’s law of refraction.
+William Rowan Hamilton: Invented quaternions, contributed to optics and dynamics.
+Otto Lilienthal: Pioneered controlled glider flight, “father of aviation.”
+Rachel Carson: Wrote Silent Spring, launched the environmental movement.
+Zhang Heng: Ancient Chinese polymath, invented the seismoscope, advanced astronomy.
+Edward Teller: Key figure in developing the hydrogen bomb.
+Henri Moissan: Isolated fluorine, invented the electric arc furnace, Nobel Prize in Chemistry.
+Emil Kraepelin: Founder of modern psychiatric classification systems.
+Isaac Singer: Improved the sewing machine, popularized its mass production.
+Alfred North Whitehead: Co-wrote Principia Mathematica, contributed to logic and process philosophy.
+Rita Levi-Montalcini: Discovered nerve growth factor, Nobel Prize in Medicine.
+Abraham de Moivre: Developed probability theory, De Moivre’s formula.
+C. V. Raman: Discovered the Raman effect in light scattering, Nobel Prize in Physics.
+Claude Shannon: Father of information theory.
+Otto Wallach: Advanced alicyclic chemistry, Nobel Prize in Chemistry.
+Karl von Frisch: Deciphered honeybee dance language, Nobel Prize in Medicine.
+Samuel Hahnemann: Founded homeopathy.
+Tu Youyou: Discovered artemisinin for malaria treatment, Nobel Prize in Medicine.
+Dennis Gabor: Invented holography, Nobel Prize in Physics.
+Hermann Minkowski: Developed the four-dimensional spacetime concept in relativity.
+László Bíró: Invented the modern ballpoint pen.
+James Franck: Co-discovered the Franck-Hertz experiment, Nobel Prize in Physics.
+Urbain Le Verrier: Predicted Neptune’s existence through mathematical calculations.
+August Ferdinand Möbius: Discovered the Möbius strip and contributed to topology.
+Elon Musk: Entrepreneur advancing electric vehicles (Tesla), space exploration (SpaceX), and various technologies.
+Richard Trevithick: Built the first full-scale working railway steam locomotive.
+Friedrich Bessel: Measured stellar parallax, contributed to precision astronomy.
+Émilie du Châtelet: Translated and explained Newton’s Principia, contributed to physics and math.
+Yoshinori Ohsumi: Discovered mechanisms of autophagy, Nobel Prize in Medicine.
+André Citroën: Founded Citroën automobile company, pioneered mass production in Europe.
+Arthur Compton: Discovered Compton scattering, demonstrating the particle nature of X-rays, Nobel Prize in Physics.
+Otto Heinrich Warburg: Researched cellular respiration and cancer metabolism, Nobel Prize in Medicine.
+Aage Bohr: Advanced nuclear structure theory, Nobel Prize in Physics.
+Avempace: Medieval Andalusian polymath, early theories in astronomy and physics.
+Dian Fossey: Pioneered mountain gorilla research and conservation.
+G. H. Hardy: Advanced number theory and pure mathematics, Hardy-Weinberg principle.
+Ilya Prigogine: Developed theories of dissipative structures and complex systems, Nobel Prize in Chemistry.
+Carl David Anderson: Discovered the positron and muon, Nobel Prize in Physics.
+Hua Tuo: Ancient Chinese physician, pioneer in surgery and anesthesia.
+Ambroise Paré: Father of modern surgery, improved battlefield medicine.
+Gaspard Monge: Founded descriptive geometry, contributed to the French metric system.
+Peter Debye: Advanced molecular structure and dipole moments, Nobel Prize in Chemistry.
+Lazzaro Spallanzani: Disproved spontaneous generation, pioneered experimental biology.
+Richard Dedekind: Formalized real numbers and abstract algebra.
+Philippe Pinel: Reformed treatment of the mentally ill, advocate of moral therapy.
+Robert Woodrow Wilson: Co-discovered cosmic microwave background radiation, Nobel Prize in Physics.
+Siméon Denis Poisson: Developed Poisson distribution and Poisson’s equation.
+Charles Goodyear: Invented vulcanized rubber.
+Willis Carrier: Invented modern air conditioning.
+Andrey Kolmogorov: Founded modern probability theory and turbulence studies.
+Gabriel Lippmann: Invented color photography using interference, Nobel Prize in Physics.
+Johann Heinrich Lambert: Proved irrationality of π, advanced photometry.
+Benoit Mandelbrot: Father of fractal geometry.
+Joseph Lister: Pioneered antiseptic surgery.
+August Kekulé: Proposed the ring structure of benzene.
+George Everest: Surveyed India’s Great Trigonometrical Survey; Mount Everest named after him.
+Eugen Bleuler: Coined the term schizophrenia, advanced psychiatric classification.
+Jacob Bernoulli: Advanced calculus, probability theory (Law of Large Numbers).
+Ernst Abbe: Revolutionized optical instruments and microscope design.
+Frederick Soddy: Researched isotopes and radioactivity, Nobel Prize in Chemistry.
+Ernst Ruska: Invented the electron microscope, Nobel Prize in Physics.
+Umberto Nobile: Designed airships, explored the Arctic by dirigible.
+Marcello Malpighi: Father of microscopical anatomy and histology.
+Henrik Dam: Discovered vitamin K, Nobel Prize in Medicine.
+William Henry Bragg: Advanced X-ray crystallography, Nobel Prize in Physics with his son Lawrence Bragg.
+Carl Bosch: Industrialized the Haber-Bosch process for ammonia synthesis, Nobel Prize in Chemistry.
+Barry Barish: Contributed to LIGO and gravitational wave detection, Nobel Prize in Physics.
+Johann Jakob Balmer: Developed Balmer series for hydrogen spectral lines.
+Aryabhata: Ancient Indian mathematician and astronomer, calculated π, advanced trigonometry.
+Katherine Johnson: Calculated critical NASA flight trajectories, key figure in space race.
+Charles Richet: Researched anaphylaxis, Nobel Prize in Medicine.
+Frederick Sanger: Sequenced proteins and DNA, won two Nobel Prizes in Chemistry.
+António Egas Moniz: Developed prefrontal lobotomy, Nobel Prize in Medicine.
+Charles Glover Barkla: Researched X-ray scattering and spectroscopy, Nobel Prize in Physics.
+Anders Jonas Ångström: Studied spectroscopy, namesake of the angstrom unit.
+Regiomontanus: Advanced trigonometry and astronomical tables in the Renaissance.
+Bhāskara II: Indian mathematician who wrote Lilavati, solved quadratic equations, advanced astronomy.
+Georges-Louis Leclerc, Comte de Buffon: Naturalist who wrote Histoire Naturelle, early ideas on Earth’s age.
+Hippolyte Fizeau: Measured speed of light using terrestrial methods.
+Christiaan Barnard: Performed the world’s first successful human heart transplant.
+Ctesibius: Ancient Greek inventor, developed pneumatic devices and water clocks.
+Jules Bordet: Discovered complement system in immunology, Nobel Prize in Medicine.
+Pavel Cherenkov: Discovered Cherenkov radiation, Nobel Prize in Physics.
+François Duvalier: Haitian physician and politician, known as “Papa Doc,” dictator infamous for authoritarian rule.
+Stanley Cohen: Discovered growth factors (nerve and epidermal), Nobel Prize in Medicine.
+Martin Waldseemüller: Cartographer who first named “America” on a world map.
+Giuseppe Peano: Formalized mathematical logic and Peano axioms for natural numbers.
+Wilhelm Maybach: Developed the first Mercedes automobile, early high-speed engines.
+Santiago Ramón y Cajal: Father of modern neuroscience, mapped the structure of the nervous system, Nobel Prize in Medicine.
+Joseph Henry: Discovered self-induction, built early electromagnets, namesake of the henry unit.
+C. F. Powell: Advanced particle physics using photographic emulsion, Nobel Prize in Physics.
+Eugene Wigner: Contributed to atomic theory and symmetry principles, Nobel Prize in Physics.
+Douglas Engelbart: Invented the computer mouse and early hypertext systems.
+Karl Ernst von Baer: Father of embryology, discovered the mammalian egg cell.
+Clinton Davisson: Co-discovered electron diffraction, Nobel Prize in Physics.
+Roger Joseph Boscovich: Developed precursor ideas for atomic theory and scientific methodology.
+Charles Lyell: Wrote Principles of Geology, championed uniformitarianism.
+Hans Adolf Krebs: Discovered the citric acid cycle (Krebs cycle), Nobel Prize in Medicine.
+William Crookes: Discovered thallium, invented Crookes tube for cathode ray experiments.
+René Laennec: Invented the stethoscope, advanced diagnosis of chest diseases.
+Giuseppe Piazzi: Discovered the dwarf planet Ceres.
+Nicolas Steno: Founded modern geology and stratigraphy.
+Jean-Baptiste Biot: Studied polarization of light, Biot–Savart law in electromagnetism.
+Manne Siegbahn: Advanced X-ray spectroscopy, Nobel Prize in Physics.
+Karl Drais: Invented the first bicycle (draisine or hobby horse).
+Pappus of Alexandria: Greek mathematician known for Pappus’s centroid theorem.
+Arthur Eddington: Confirmed general relativity through the 1919 solar eclipse.
+Alexei Kosygin: Soviet statesman and economist (not mainly known for science).
+Wilhelm Schickard: Designed an early mechanical calculator (Schickard’s calculating clock).
+Robert Bunsen: Co-invented the Bunsen burner, discovered cesium and rubidium.
+Barbara McClintock: Discovered “jumping genes” (transposons) in maize, Nobel Prize in Medicine.
+Heinrich Wilhelm Matthias Olbers: Discovered asteroids Pallas and Vesta, formulated Olbers’ paradox.
+Ernest Lawrence: Invented the cyclotron, Nobel Prize in Physics.
+Augustin-Jean Fresnel: Advanced wave optics, formulated Fresnel equations.
+François Arago: Studied magnetism and light polarization, advanced meteorology.
+Joseph Black: Discovered carbon dioxide and latent heat.
+John Bardeen: Co-invented the transistor, developed superconductivity theory, only person to win two Nobel Prizes in Physics.
+John Boyd Dunlop: Invented the practical pneumatic tire.
+Alexandre Yersin: Discovered the bacterium causing bubonic plague (Yersinia pestis).
+Arno Allan Penzias: Co-discovered cosmic microwave background radiation, Nobel Prize in Physics.
+Emil von Behring: Developed diphtheria antitoxin, first Nobel Prize in Medicine.
+James Parkinson: Described Parkinson’s disease in An Essay on the Shaking Palsy.
+Felix Klein: Developed the Erlangen program, advanced group theory and geometry.
+Jiro Horikoshi: Designed the Mitsubishi A6M Zero fighter aircraft.
+Steve Wozniak: Co-founded Apple, developed the Apple I and II computers.
+Emile Berliner: Invented the flat disc gramophone and microphone.
+Allvar Gullstrand: Studied optics of the eye, Nobel Prize in Medicine.
+Nikolaas Tinbergen: Pioneered ethology, studied animal behavior, Nobel Prize in Medicine.
+Adrien-Marie Legendre: Advanced number theory and elliptic functions, Legendre polynomials.
+Gerhard Armauer Hansen: Discovered Mycobacterium leprae, the bacterium causing leprosy.
+Mary Somerville: Popularized science, contributed to astronomy and mathematics, namesake of Somerville College.
+Igor Tamm: Co-developed the theory of Cherenkov radiation, Nobel Prize in Physics.
+Robert Edwards: Pioneered in vitro fertilization (IVF), Nobel Prize in Medicine.
+Kip Thorne: Advanced gravitational physics, key figure in LIGO and gravitational waves, Nobel Prize in Physics.
+Karl Brandt: Nazi physician, Hitler’s personal doctor, executed for war crimes (Nazi euthanasia program).
+Jamshīd al-Kāshī: Persian astronomer and mathematician, computed pi to remarkable precision.
+Auguste Piccard: Invented the pressurized balloon gondola, deep-sea bathyscaphe explorer.
+Johann Gottfried Galle: First to observe Neptune, based on Le Verrier’s calculations.
+Felix Bloch: Developed Bloch waves in solids, advanced NMR, Nobel Prize in Physics.
+Nicolas-Joseph Cugnot: Built the first self-propelled mechanical vehicle (early steam-powered car).
+Jack Kilby: Co-invented the integrated circuit (microchip), Nobel Prize in Physics.
+Jan Baptist van Helmont: Early chemist who studied gases, coined the word “gas.”
+Henry Moseley: Established atomic number as basis of the periodic table.
+Dennis Ritchie: Co-developed the C programming language and UNIX operating system.
+Simon van der Meer: Developed stochastic cooling for particle beams, Nobel Prize in Physics.
+Henry Fox Talbot: Invented the calotype process, an early photographic negative-positive system.
+Jan Oort: Advanced understanding of the Milky Way, proposed the Oort cloud.
+Karl Schwarzschild: Provided exact solutions for black holes (Schwarzschild radius) in general relativity.
+Paul Sabatier: Advanced catalytic hydrogenation, Nobel Prize in Chemistry.
+Christian Goldbach: Proposed Goldbach’s conjecture in number theory.
+Richard Owen: Coined the term “Dinosauria,” founded the Natural History Museum, London.
+Thomas Young: Demonstrated the wave nature of light with the double-slit experiment.
+Walther Bothe: Developed coincidence method in particle physics, Nobel Prize in Physics.
+Gerhard Domagk: Discovered the first sulfa drug (Prontosil), Nobel Prize in Medicine.
+Victor Grignard: Developed Grignard reagents for organic synthesis, Nobel Prize in Chemistry.
+Fritz Todt: Nazi engineer, built Autobahn network, founded Organisation Todt.
+Arthur Harden: Researched fermentation and sugar metabolism, Nobel Prize in Chemistry.
+Adam Opel: Founded the Opel company, known for sewing machines and later automobiles.
+Francis William Aston: Invented the mass spectrometer, discovered isotopes, Nobel Prize in Chemistry.
+Johannes Hevelius: Catalogued stars and lunar topography, built an advanced observatory.
+Peter Simon Pallas: German naturalist who explored Russia and Siberia, described many species.
+Alfred Werner: Developed coordination chemistry, Nobel Prize in Chemistry.
+Louis Blériot: Made the first flight across the English Channel in a heavier-than-air aircraft.
+Richard Willstätter: Researched chlorophyll and plant pigments, Nobel Prize in Chemistry.
+August Weismann: Developed germ plasm theory, foundational to modern genetics.
+Paul Karrer: Researched vitamins and plant pigments, Nobel Prize in Chemistry.
+Claude Louis Berthollet: Contributed to chemical equilibria and bleaching processes.
+Hans Lippershey: Credited with inventing the telescope.
+Josiah Willard Gibbs: Founded statistical mechanics and chemical thermodynamics.
+Frank Whittle: Invented the turbojet engine.
+J. Hans D. Jensen: Developed nuclear shell model, Nobel Prize in Physics.
+George Paget Thomson: Discovered electron diffraction by crystals, Nobel Prize in Physics.
+Ada Yonath: Pioneered ribosome structure research, Nobel Prize in Chemistry.
+Christiaan Eijkman: Discovered link between diet and beriberi, vitamin B1, Nobel Prize in Medicine.
+Bonaventura Cavalieri: Developed Cavalieri’s principle in geometry, early infinitesimal methods.
+Hermann Staudinger: Father of polymer chemistry, Nobel Prize in Chemistry.
+Francesco Redi: Disproved spontaneous generation with maggot experiments.
+Guillaume de l'Hôpital: Published the first calculus textbook, known for L’Hôpital’s rule.
+Richard Stallman: Founded the Free Software Movement, created GNU Project.
+Harald zur Hausen: Discovered link between HPV and cervical cancer, Nobel Prize in Medicine.
+Pierre Louis Maupertuis: Proposed principle of least action in physics.
+Robert Bellarmine: Jesuit cardinal who opposed Galileo, influential figure in Catholic Counter-Reformation.
